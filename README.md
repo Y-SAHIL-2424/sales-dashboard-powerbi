@@ -1,4 +1,3 @@
-[Sales Analysis Dashboard using Power BI.pbix.zip]
 
 ## Project Files
 
