@@ -1,6 +1,9 @@
 [Sales Analysis Dashboard using Power BI.pbix.zip]
-(https://github.com/user-attachments/files/26673979/Sales.Analysis.Dashboard.using.Power.BI.pbix.zip)
-[train.xlsx](https://github.com/user-attachments/files/26673998/train.xlsx)
+
+## Project Files
+
+- Power BI Dashboard: (https://github.com/user-attachments/files/26673979/Sales.Analysis.Dashboard.using.Power.BI.pbix.zip)
+- Dataset: (https://github.com/user-attachments/files/26673998/train.xlsx)
 
 # Sales Analysis Dashboard (Power BI)
 
