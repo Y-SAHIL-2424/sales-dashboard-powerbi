@@ -1,5 +1,7 @@
-[Sales Analysis Dashboard using Power BI.pbix.zip](https://github.com/user-attachments/files/26673979/S)[train.xlsx](https://github.com/user-attachments/files/26673998/train.xlsx)
-ales.Analysis.Dashboard.using.Power.BI.pbix.zip)
+[Sales Analysis Dashboard using Power BI.pbix.zip]
+(https://github.com/user-attachments/files/26673979/Sales.Analysis.Dashboard.using.Power.BI.pbix.zip)
+[train.xlsx](https://github.com/user-attachments/files/26673998/train.xlsx)
+
 # Sales Analysis Dashboard (Power BI)
 
 ## Overview<img width="1189" height="671" alt="Screenshot 2026-04-13 164403" src="https://github.com/user-attachments/assets/5b6b658a-9a48-48ab-a456-971f7a079c0a" />
