@@ -1,6 +1,9 @@
+[Sales Analysis Dashboard using Power BI.pbix.zip](https://github.com/user-attachments/files/26673979/S)[train.xlsx](https://github.com/user-attachments/files/26673998/train.xlsx)
+ales.Analysis.Dashboard.using.Power.BI.pbix.zip)
 # Sales Analysis Dashboard (Power BI)
 
-## Overview
+## Overview<img width="1189" height="671" alt="Screenshot 2026-04-13 164403" src="https://github.com/user-attachments/assets/5b6b658a-9a48-48ab-a456-971f7a079c0a" />
+
 
 This project analyzes sales data (₹2.26M) across regions, categories, and customers using Power BI.
 
